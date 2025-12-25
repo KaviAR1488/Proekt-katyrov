@@ -62,5 +62,5 @@ pip install cryptography schedule
 Запускает автоматическую демонстрацию работы всех функций системы
  7. **Подставка -dir** 
  делает конкретный бэкап файла или папки
- python .\main -dir (путь) (команда)
- пример: python .main -dir ("D:\Downloads\проект") full
+ python .\main (команда) -dir (путь)
+ пример: python .main full -dir ("D:\Downloads\проект") 
